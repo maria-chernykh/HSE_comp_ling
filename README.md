@@ -11,4 +11,4 @@
 4) визуализация
 
 *NB: нормализация текстов может занять несколько часов.*  
-*Для удобства можно использовать готовые датафреймы 'Normalized descriptions_1.xlsx' и 'Normalized descriptions_2'.xlsx.*
+*Для удобства можно использовать готовые датафреймы 'Normalized description_1.xlsx' и 'Normalized description_2'.xlsx.*
