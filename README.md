@@ -15,7 +15,7 @@
 ## 'Movie topic drift over the recent 20 years'  
 This NLP project is designed to analyze drift in movie topics across two time periods: 2020-2025 and 2000-2005 years.  
 Movie descriptions from [Kinopoisk](https://kinopoisk.ru) are used as the data source. The data is loaded via [Kinopoisk API](https://kinopoisk.dev).  
-Tools used in this project: pandas, regex, nltk, mystem, pymorphy3, sklearn, numpy, PIL, matplotlib, wordcloud. Topic words are identified based on TF-IDF score.  
+Tools used in this project: pandas, regex, nltk, mystem, pymorphy3, numpy, PIL, matplotlib, wordcloud. Topic words are identified based on TF-IDF score.  
   
 Project pipeline:
 1) Data Parsing & Corpus Compilation
